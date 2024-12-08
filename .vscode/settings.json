@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\TAQII\\Tugas Kuliah\\Java\\Praktikum OOP\\javafx-sdk-17.0.13\\lib\\javafx.base.jar",
+        "d:\\TAQII\\Tugas Kuliah\\Java\\Praktikum OOP\\javafx-sdk-17.0.13\\lib\\javafx.controls.jar",
+        "d:\\TAQII\\Tugas Kuliah\\Java\\Praktikum OOP\\javafx-sdk-17.0.13\\lib\\javafx.fxml.jar",
+        "d:\\TAQII\\Tugas Kuliah\\Java\\Praktikum OOP\\javafx-sdk-17.0.13\\lib\\javafx.graphics.jar",
+        "d:\\TAQII\\Tugas Kuliah\\Java\\Praktikum OOP\\javafx-sdk-17.0.13\\lib\\javafx.media.jar",
+        "d:\\TAQII\\Tugas Kuliah\\Java\\Praktikum OOP\\javafx-sdk-17.0.13\\lib\\javafx.swing.jar",
+        "d:\\TAQII\\Tugas Kuliah\\Java\\Praktikum OOP\\javafx-sdk-17.0.13\\lib\\javafx.web.jar",
+        "d:\\TAQII\\Tugas Kuliah\\Java\\Praktikum OOP\\javafx-sdk-17.0.13\\lib\\javafx-swt.jar"
+    ]
+}
